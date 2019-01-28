@@ -18,7 +18,12 @@ Graph mining is one of the most important areas in data mining. However, scalabl
 
 * **Dependencies Install**
 
-  G-Miner is built with the same dependencies of our previous project [Pregel+](http://www.cse.cuhk.edu.hk/pregelplus/index.html). To install G-Miner's dependencies (e.g., MPI, HDFS), using the instructions in this [guide](http://www.cse.cuhk.edu.hk/pregelplus/documentation.html).
+G++
+Open MPI or MPICH
+JDK
+Hadoop
+
+G-Miner is built with dependencies G++, MPI, JDK, HDFS. To install G-Miner's dependencies, please follow the instructions in our project [webpage](http://www.cse.cuhk.edu.hk/gminer/documentation.html).
 
 * **Build**
 
