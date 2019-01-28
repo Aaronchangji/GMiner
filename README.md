@@ -18,7 +18,7 @@ Graph mining is one of the most important areas in data mining. However, scalabl
 
 * **Dependencies Install**
 
-To install G-Miner's dependencies (G++, MPI, JDK, HDFS), please follow the instructions in our project [webpage](http://www.cse.cuhk.edu.hk/gminer/documentation.html).
+To install G-Miner's dependencies (G++, MPI, JDK, HDFS), please follow the instructions in our project [webpage](http://www.cse.cuhk.edu.hk/systems/gminer/deploy.html).
 
 * **Build**
 
